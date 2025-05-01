@@ -20,10 +20,6 @@ src/
 └── Main.java    # نقطة البدء
 ```
 
-## 💻 متطلبات التشغيل
-- JDK 17 أو أحدث
-- Git لإدارة الإصدارات
-
 ## 🚀 كيفية التشغيل
 ```bash
 git clone https://github.com/اسمك-المستخدم/Digital-Library-System.git
